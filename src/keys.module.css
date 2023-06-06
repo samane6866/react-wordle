@@ -1,0 +1,12 @@
+.key-square {
+  border: 2px solid rgb(31, 22, 22);
+  background-color: rgb(221, 221, 221);
+  border-radius: 5px;
+  font-weight: bold;
+  padding: 16px;
+}
+.key-square:hover {
+  background-color: rgb(85, 82, 82);
+  color: white;
+  cursor: pointer;
+}
